@@ -1,4 +1,4 @@
-### Playground with Image processing tasks using Deep Learning
+### Image processing task playground using Deep Learning
 
 Code is based on publicly available tutorials:
 
